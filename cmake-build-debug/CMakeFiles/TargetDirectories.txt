@@ -1,0 +1,3 @@
+C:/DEV/c/SDL/ProjectOne/cmake-build-debug/CMakeFiles/ProjectOne.dir
+C:/DEV/c/SDL/ProjectOne/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/DEV/c/SDL/ProjectOne/cmake-build-debug/CMakeFiles/rebuild_cache.dir

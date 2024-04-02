@@ -1,0 +1,10 @@
+# ninja log v5
+0	605	7337797729857766	CMakeFiles/ProjectOne.dir/main.c.obj	441e3855155bbc1b
+2	512	7337798390788404	CMakeFiles/ProjectOne.dir/main.c.obj	441e3855155bbc1b
+3	521	7337800650467583	CMakeFiles/ProjectOne.dir/main.c.obj	441e3855155bbc1b
+3	578	7337802478965594	CMakeFiles/ProjectOne.dir/main.c.obj	441e3855155bbc1b
+3	447	7337803311227341	CMakeFiles/ProjectOne.dir/main.c.obj	441e3855155bbc1b
+2	465	7337805314441978	CMakeFiles/ProjectOne.dir/main.c.obj	441e3855155bbc1b
+466	555	7337805315337519	ProjectOne.exe	b6700f323f5f04de
+2	470	7337805510590231	CMakeFiles/ProjectOne.dir/main.c.obj	441e3855155bbc1b
+470	560	7337805511475334	ProjectOne.exe	b6700f323f5f04de
